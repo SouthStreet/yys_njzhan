@@ -1,10 +1,12 @@
 [SOURCE]
-1\SOURCEFILE=C:/Users/njzhan/Documents/xspworkspace/yys_njzhan/xsp/src/main.lua
-size=1
+1\SOURCEFILE=C:/Users/njzhan/Documents/xspworkspace/yys_njzhan/xsp/src/_01AnsInvite.lua
+2\SOURCEFILE=C:/Users/njzhan/Documents/xspworkspace/yys_njzhan/xsp/src/_00main.lua
+size=2
 
 [UI]
 1\UIFILE=C:/Users/njzhan/Documents/xspworkspace/yys_njzhan/xsp/ui/ui.json
-size=1
+size=2
+2\UIFILE=C:/Users/njzhan/Documents/xspworkspace/yys_njzhan/xsp/ui/_01AnsInvite.json
 
 [RES]
 size=0
