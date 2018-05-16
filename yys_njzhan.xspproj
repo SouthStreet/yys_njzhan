@@ -1,0 +1,13 @@
+[SOURCE]
+1\SOURCEFILE=C:/Users/njzhan/Documents/xspworkspace/yys_njzhan/xsp/src/main.lua
+size=1
+
+[UI]
+1\UIFILE=C:/Users/njzhan/Documents/xspworkspace/yys_njzhan/xsp/ui/ui.json
+size=1
+
+[RES]
+size=0
+
+[LIB]
+size=0
